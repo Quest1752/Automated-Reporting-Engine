@@ -1,0 +1,6 @@
+pandas
+plotly
+python-pptx
+requests
+kaleido
+numpy
