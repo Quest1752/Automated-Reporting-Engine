@@ -1,6 +1,6 @@
 pandas
-plotly
-python-pptx
-requests
-kaleido
 numpy
+plotly
+requests
+python-pptx
+kaleido
